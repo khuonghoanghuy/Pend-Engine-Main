@@ -1,8 +1,8 @@
 # FNF - Pend Engine
 A modified of Psych Engine 0.6.3 come with:
 
-- New cool Options
-- Add new icon beat
+- New cool Options (in-dev)
+- Add new icon beat (in-dev)
 - **ADD MAIN MENU USING TXT** (most people like it!)
 
 and more...
